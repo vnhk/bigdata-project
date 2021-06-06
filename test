@@ -1,0 +1,2251 @@
+{
+  "measurement" : {
+    "actualKilometers" : 1.5555555555555556,
+    "actualSpeed" : 147,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 17
+      },
+      "timestamp" : 1601003836000
+    },
+    "measurementNumber" : 0,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 3.111111111111111,
+    "actualSpeed" : 95,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 18
+      },
+      "timestamp" : 1601003896000
+    },
+    "measurementNumber" : 1,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 4.666666666666667,
+    "actualSpeed" : 107,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 19
+      },
+      "timestamp" : 1601003956000
+    },
+    "measurementNumber" : 2,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 6.222222222222222,
+    "actualSpeed" : 61,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 20
+      },
+      "timestamp" : 1601004016000
+    },
+    "measurementNumber" : 3,
+    "maxSpeed" : 120
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 7.777777777777778,
+    "actualSpeed" : 0,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 21
+      },
+      "timestamp" : 1601004076000
+    },
+    "measurementNumber" : 4,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 9.333333333333334,
+    "actualSpeed" : 148,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 22
+      },
+      "timestamp" : 1601004136000
+    },
+    "measurementNumber" : 5,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 10.88888888888889,
+    "actualSpeed" : 2,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 23
+      },
+      "timestamp" : 1601004196000
+    },
+    "measurementNumber" : 6,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 12.444444444444445,
+    "actualSpeed" : 31,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 24
+      },
+      "timestamp" : 1601004256000
+    },
+    "measurementNumber" : 7,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 14.0,
+    "actualSpeed" : 120,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 25
+      },
+      "timestamp" : 1601004316000
+    },
+    "measurementNumber" : 8,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 15.555555555555555,
+    "actualSpeed" : 89,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 26
+      },
+      "timestamp" : 1601004376000
+    },
+    "measurementNumber" : 9,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 17.11111111111111,
+    "actualSpeed" : 36,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 27
+      },
+      "timestamp" : 1601004436000
+    },
+    "measurementNumber" : 10,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 18.666666666666668,
+    "actualSpeed" : 48,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 28
+      },
+      "timestamp" : 1601004496000
+    },
+    "measurementNumber" : 11,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 20.222222222222225,
+    "actualSpeed" : 123,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 29
+      },
+      "timestamp" : 1601004556000
+    },
+    "measurementNumber" : 12,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 21.777777777777782,
+    "actualSpeed" : 26,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 30
+      },
+      "timestamp" : 1601004616000
+    },
+    "measurementNumber" : 13,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 23.33333333333334,
+    "actualSpeed" : 47,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 31
+      },
+      "timestamp" : 1601004676000
+    },
+    "measurementNumber" : 14,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 24.888888888888896,
+    "actualSpeed" : 137,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 32
+      },
+      "timestamp" : 1601004736000
+    },
+    "measurementNumber" : 15,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 26.444444444444454,
+    "actualSpeed" : 51,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 33
+      },
+      "timestamp" : 1601004796000
+    },
+    "measurementNumber" : 16,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 28.00000000000001,
+    "actualSpeed" : 58,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 34
+      },
+      "timestamp" : 1601004856000
+    },
+    "measurementNumber" : 17,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 29.555555555555568,
+    "actualSpeed" : 84,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 35
+      },
+      "timestamp" : 1601004916000
+    },
+    "measurementNumber" : 18,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 31.111111111111125,
+    "actualSpeed" : 78,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 36
+      },
+      "timestamp" : 1601004976000
+    },
+    "measurementNumber" : 19,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 32.66666666666668,
+    "actualSpeed" : 125,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 37
+      },
+      "timestamp" : 1601005036000
+    },
+    "measurementNumber" : 20,
+    "maxSpeed" : 120
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 34.222222222222236,
+    "actualSpeed" : 136,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 38
+      },
+      "timestamp" : 1601005096000
+    },
+    "measurementNumber" : 21,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 35.77777777777779,
+    "actualSpeed" : 114,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 39
+      },
+      "timestamp" : 1601005156000
+    },
+    "measurementNumber" : 22,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 37.33333333333335,
+    "actualSpeed" : 25,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 40
+      },
+      "timestamp" : 1601005216000
+    },
+    "measurementNumber" : 23,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 38.88888888888891,
+    "actualSpeed" : 27,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 41
+      },
+      "timestamp" : 1601005276000
+    },
+    "measurementNumber" : 24,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 40.444444444444464,
+    "actualSpeed" : 83,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 42
+      },
+      "timestamp" : 1601005336000
+    },
+    "measurementNumber" : 25,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 42.00000000000002,
+    "actualSpeed" : 78,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 43
+      },
+      "timestamp" : 1601005396000
+    },
+    "measurementNumber" : 26,
+    "maxSpeed" : 120
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 43.55555555555558,
+    "actualSpeed" : 120,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 44
+      },
+      "timestamp" : 1601005456000
+    },
+    "measurementNumber" : 27,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 45.111111111111136,
+    "actualSpeed" : 131,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 45
+      },
+      "timestamp" : 1601005516000
+    },
+    "measurementNumber" : 28,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 46.66666666666669,
+    "actualSpeed" : 15,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 46
+      },
+      "timestamp" : 1601005576000
+    },
+    "measurementNumber" : 29,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 48.22222222222225,
+    "actualSpeed" : 78,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 47
+      },
+      "timestamp" : 1601005636000
+    },
+    "measurementNumber" : 30,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 49.77777777777781,
+    "actualSpeed" : 140,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 48
+      },
+      "timestamp" : 1601005696000
+    },
+    "measurementNumber" : 31,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 51.333333333333364,
+    "actualSpeed" : 48,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 49
+      },
+      "timestamp" : 1601005756000
+    },
+    "measurementNumber" : 32,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 52.88888888888892,
+    "actualSpeed" : 6,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 50
+      },
+      "timestamp" : 1601005816000
+    },
+    "measurementNumber" : 33,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 54.44444444444448,
+    "actualSpeed" : 147,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 51
+      },
+      "timestamp" : 1601005876000
+    },
+    "measurementNumber" : 34,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 56.000000000000036,
+    "actualSpeed" : 84,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 52
+      },
+      "timestamp" : 1601005936000
+    },
+    "measurementNumber" : 35,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 57.55555555555559,
+    "actualSpeed" : 20,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 53
+      },
+      "timestamp" : 1601005996000
+    },
+    "measurementNumber" : 36,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 59.11111111111115,
+    "actualSpeed" : 15,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 54
+      },
+      "timestamp" : 1601006056000
+    },
+    "measurementNumber" : 37,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 60.66666666666671,
+    "actualSpeed" : 100,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 55
+      },
+      "timestamp" : 1601006116000
+    },
+    "measurementNumber" : 38,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 62.222222222222264,
+    "actualSpeed" : 104,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 56
+      },
+      "timestamp" : 1601006176000
+    },
+    "measurementNumber" : 39,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 63.77777777777782,
+    "actualSpeed" : 39,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 57
+      },
+      "timestamp" : 1601006236000
+    },
+    "measurementNumber" : 40,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 65.33333333333337,
+    "actualSpeed" : 138,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 58
+      },
+      "timestamp" : 1601006296000
+    },
+    "measurementNumber" : 41,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 66.88888888888893,
+    "actualSpeed" : 141,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 5,
+        "seconds" : 16,
+        "minutes" : 59
+      },
+      "timestamp" : 1601006356000
+    },
+    "measurementNumber" : 42,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 68.44444444444449,
+    "actualSpeed" : 89,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 0
+      },
+      "timestamp" : 1601006416000
+    },
+    "measurementNumber" : 43,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 70.00000000000004,
+    "actualSpeed" : 85,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 1
+      },
+      "timestamp" : 1601006476000
+    },
+    "measurementNumber" : 44,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 71.5555555555556,
+    "actualSpeed" : 21,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 2
+      },
+      "timestamp" : 1601006536000
+    },
+    "measurementNumber" : 45,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 73.11111111111116,
+    "actualSpeed" : 25,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 3
+      },
+      "timestamp" : 1601006596000
+    },
+    "measurementNumber" : 46,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 74.66666666666671,
+    "actualSpeed" : 5,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 4
+      },
+      "timestamp" : 1601006656000
+    },
+    "measurementNumber" : 47,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 76.22222222222227,
+    "actualSpeed" : 62,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 5
+      },
+      "timestamp" : 1601006716000
+    },
+    "measurementNumber" : 48,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 77.77777777777783,
+    "actualSpeed" : 75,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 6
+      },
+      "timestamp" : 1601006776000
+    },
+    "measurementNumber" : 49,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 79.33333333333339,
+    "actualSpeed" : 98,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 7
+      },
+      "timestamp" : 1601006836000
+    },
+    "measurementNumber" : 50,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 80.88888888888894,
+    "actualSpeed" : 136,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 8
+      },
+      "timestamp" : 1601006896000
+    },
+    "measurementNumber" : 51,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 82.4444444444445,
+    "actualSpeed" : 82,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 9
+      },
+      "timestamp" : 1601006956000
+    },
+    "measurementNumber" : 52,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 84.00000000000006,
+    "actualSpeed" : 21,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 10
+      },
+      "timestamp" : 1601007016000
+    },
+    "measurementNumber" : 53,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 85.55555555555561,
+    "actualSpeed" : 114,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 11
+      },
+      "timestamp" : 1601007076000
+    },
+    "measurementNumber" : 54,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 87.11111111111117,
+    "actualSpeed" : 101,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 12
+      },
+      "timestamp" : 1601007136000
+    },
+    "measurementNumber" : 55,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 88.66666666666673,
+    "actualSpeed" : 116,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 13
+      },
+      "timestamp" : 1601007196000
+    },
+    "measurementNumber" : 56,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 90.22222222222229,
+    "actualSpeed" : 107,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 14
+      },
+      "timestamp" : 1601007256000
+    },
+    "measurementNumber" : 57,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 91.77777777777784,
+    "actualSpeed" : 36,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 15
+      },
+      "timestamp" : 1601007316000
+    },
+    "measurementNumber" : 58,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 93.3333333333334,
+    "actualSpeed" : 77,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 16
+      },
+      "timestamp" : 1601007376000
+    },
+    "measurementNumber" : 59,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 94.88888888888896,
+    "actualSpeed" : 113,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 17
+      },
+      "timestamp" : 1601007436000
+    },
+    "measurementNumber" : 60,
+    "maxSpeed" : 120
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 96.44444444444451,
+    "actualSpeed" : 93,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 18
+      },
+      "timestamp" : 1601007496000
+    },
+    "measurementNumber" : 61,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 98.00000000000007,
+    "actualSpeed" : 99,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 19
+      },
+      "timestamp" : 1601007556000
+    },
+    "measurementNumber" : 62,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 99.55555555555563,
+    "actualSpeed" : 68,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 20
+      },
+      "timestamp" : 1601007616000
+    },
+    "measurementNumber" : 63,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 101.11111111111119,
+    "actualSpeed" : 45,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 21
+      },
+      "timestamp" : 1601007676000
+    },
+    "measurementNumber" : 64,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 102.66666666666674,
+    "actualSpeed" : 61,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 22
+      },
+      "timestamp" : 1601007736000
+    },
+    "measurementNumber" : 65,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 104.2222222222223,
+    "actualSpeed" : 148,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 23
+      },
+      "timestamp" : 1601007796000
+    },
+    "measurementNumber" : 66,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 105.77777777777786,
+    "actualSpeed" : 13,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 24
+      },
+      "timestamp" : 1601007856000
+    },
+    "measurementNumber" : 67,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 107.33333333333341,
+    "actualSpeed" : 142,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 25
+      },
+      "timestamp" : 1601007916000
+    },
+    "measurementNumber" : 68,
+    "maxSpeed" : 120
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 108.88888888888897,
+    "actualSpeed" : 54,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 26
+      },
+      "timestamp" : 1601007976000
+    },
+    "measurementNumber" : 69,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 110.44444444444453,
+    "actualSpeed" : 70,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 27
+      },
+      "timestamp" : 1601008036000
+    },
+    "measurementNumber" : 70,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 112.00000000000009,
+    "actualSpeed" : 78,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 28
+      },
+      "timestamp" : 1601008096000
+    },
+    "measurementNumber" : 71,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 113.55555555555564,
+    "actualSpeed" : 13,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 29
+      },
+      "timestamp" : 1601008156000
+    },
+    "measurementNumber" : 72,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 115.1111111111112,
+    "actualSpeed" : 120,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 30
+      },
+      "timestamp" : 1601008216000
+    },
+    "measurementNumber" : 73,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 116.66666666666676,
+    "actualSpeed" : 115,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 31
+      },
+      "timestamp" : 1601008276000
+    },
+    "measurementNumber" : 74,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 118.22222222222231,
+    "actualSpeed" : 8,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 32
+      },
+      "timestamp" : 1601008336000
+    },
+    "measurementNumber" : 75,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 119.77777777777787,
+    "actualSpeed" : 70,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 33
+      },
+      "timestamp" : 1601008396000
+    },
+    "measurementNumber" : 76,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 121.33333333333343,
+    "actualSpeed" : 28,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 34
+      },
+      "timestamp" : 1601008456000
+    },
+    "measurementNumber" : 77,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 122.88888888888899,
+    "actualSpeed" : 140,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 35
+      },
+      "timestamp" : 1601008516000
+    },
+    "measurementNumber" : 78,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 124.44444444444454,
+    "actualSpeed" : 137,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 36
+      },
+      "timestamp" : 1601008576000
+    },
+    "measurementNumber" : 79,
+    "maxSpeed" : 140
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 126.0000000000001,
+    "actualSpeed" : 112,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 37
+      },
+      "timestamp" : 1601008636000
+    },
+    "measurementNumber" : 80,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 127.55555555555566,
+    "actualSpeed" : 137,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 38
+      },
+      "timestamp" : 1601008696000
+    },
+    "measurementNumber" : 81,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 129.1111111111112,
+    "actualSpeed" : 118,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 39
+      },
+      "timestamp" : 1601008756000
+    },
+    "measurementNumber" : 82,
+    "maxSpeed" : 90
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 130.66666666666674,
+    "actualSpeed" : 103,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 40
+      },
+      "timestamp" : 1601008816000
+    },
+    "measurementNumber" : 83,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 132.22222222222229,
+    "actualSpeed" : 66,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 41
+      },
+      "timestamp" : 1601008876000
+    },
+    "measurementNumber" : 84,
+    "maxSpeed" : 50
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 133.77777777777783,
+    "actualSpeed" : 25,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 42
+      },
+      "timestamp" : 1601008936000
+    },
+    "measurementNumber" : 85,
+    "maxSpeed" : 30
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 135.33333333333337,
+    "actualSpeed" : 141,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 43
+      },
+      "timestamp" : 1601008996000
+    },
+    "measurementNumber" : 86,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 136.8888888888889,
+    "actualSpeed" : 40,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 44
+      },
+      "timestamp" : 1601009056000
+    },
+    "measurementNumber" : 87,
+    "maxSpeed" : 70
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 138.44444444444446,
+    "actualSpeed" : 58,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 45
+      },
+      "timestamp" : 1601009116000
+    },
+    "measurementNumber" : 88,
+    "maxSpeed" : 100
+  }
+}{
+  "measurement" : {
+    "actualKilometers" : 140.0,
+    "actualSpeed" : 93,
+    "cityA" : "WARSZAWA",
+    "cityB" : "LODZ",
+    "navigationId" : 7861440701299616691,
+    "distance" : 140,
+    "dataTime" : {
+      "data" : {
+        "dayOfWeek" : "FRIDAY",
+        "month" : 9,
+        "dayOfMonth" : 25,
+        "year" : 2020
+      },
+      "time" : {
+        "hours" : 6,
+        "seconds" : 16,
+        "minutes" : 46
+      },
+      "timestamp" : 1601009176000
+    },
+    "measurementNumber" : 89,
+    "maxSpeed" : 120
+  }
+}
