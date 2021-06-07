@@ -31,11 +31,4 @@ public class GeneratorController {
             navigationManager.saveImage(image);
         }
     }
-
-//    @GetMapping(value = "/images")
-//    public ResponseEntity<List<Chart>> getImages(@RequestBody JsonNode image) throws IOException {
-//        List<Chart> all = navigationManager.findAll(image);
-//
-//        return new ResponseEntity<List<Chart>>(all, HttpStatus.OK);
-//    }
 }

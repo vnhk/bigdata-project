@@ -60,7 +60,7 @@ public class NavigationManager {
         return chartRepository.save(chart);
     }
 
-    public List<Chart> findAll(JsonNode image) {
+    public List<Chart> findAll() {
         return chartRepository.findAll();
     }
 }
