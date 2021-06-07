@@ -12,6 +12,7 @@ import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class NavigationManager {
@@ -53,7 +54,13 @@ public class NavigationManager {
         String imageBase = image.get("data").asText();
         String name = image.get("name").toString();
 
+        Optional<Chart> byTitle = chartRepository.findByTitle(name);
         Chart chart = new Chart();
+
+        if (byTitle.isPresent()) {
+            chart = byTitle.get();
+        }
+
         chart.setImage(imageBase);
         chart.setTitle(name);
 
