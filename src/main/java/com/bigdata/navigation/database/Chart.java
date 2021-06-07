@@ -3,14 +3,12 @@ package com.bigdata.navigation.database;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.Lob;
 
 @Entity
 public class Chart {
     @Id
     private Long id;
-    @Lob
-    private byte[] image;
+    private String image;
     private String title;
 
     public Long getId() {
@@ -21,19 +19,19 @@ public class Chart {
         this.id = id;
     }
 
-    public byte[] getImage() {
-        return image;
-    }
-
-    public void setImage(byte[] image) {
-        this.image = image;
-    }
-
     public String getTitle() {
         return title;
     }
 
     public void setTitle(String title) {
         this.title = title;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
     }
 }

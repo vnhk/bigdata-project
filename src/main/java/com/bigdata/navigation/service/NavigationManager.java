@@ -39,14 +39,6 @@ public class NavigationManager {
                     String json = jsonConverter.getJson(jsonNavigationDatum);
                     rabbitMq.sendData(json);
                 }
-
-//                FileWriter fileWriter = new FileWriter("test");
-//
-//                for (JsonNavigationData jsonNavigationDatum : jsonNavigationData) {
-//                    String json = jsonConverter.getJson(jsonNavigationDatum);
-//                    fileWriter.write(json);
-//                }
-//                fileWriter.close();
             } catch (JsonProcessingException e) {
                 e.printStackTrace();
             } catch (IOException e) {
@@ -58,12 +50,12 @@ public class NavigationManager {
     }
 
     public Chart saveImage(JsonNode image) throws IOException {
-        byte[] bytes = image.get("bytes").binaryValue();
-        String title = image.get("title").toString();
+        String imageBase = image.get("data").asText();
+        String name = image.get("name").toString();
 
         Chart chart = new Chart();
-        chart.setImage(bytes);
-        chart.setTitle(title);
+        chart.setImage(imageBase);
+        chart.setTitle(name);
 
         return chartRepository.save(chart);
     }
