@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "generate-enabled",
+      "type": "java.lang.Boolean",
+      "description": "Description for generate-enabled."
+    }
+  ]
+}
